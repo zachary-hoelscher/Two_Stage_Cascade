@@ -1,5 +1,5 @@
 # Two_Stage_Cascade
-Here we consider a two-stage dark matter decay chain (A->2B), where the decay is triggered by spontanous symmetry breaking in the dark sector. Here A has an equation of state parameter of zero, whereas B has an equation of state parameter of -1/3. This results in a larger late-time value for the Hubble parameter, allowing for partial alleviation of the Hubble tension. Note that A and B are a subcomponent of the dark matter. 
+Here we consider a two-stage dark matter decay chain (A->2B), where the decay is triggered by spontaneous symmetry breaking in the dark sector. Here A has an equation of state parameter of zero, whereas B has an equation of state parameter of -1/3. This results in a larger late-time value for the Hubble parameter, allowing for partial alleviation of the Hubble tension. Note that A and B are a subcomponent of the dark matter. 
 
 Grid_Search.py: This performs a grid search over the parameter space to find the best combination. This values are then used as the initial values for Powell's method. 
 
